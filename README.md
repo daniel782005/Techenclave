@@ -10,3 +10,4 @@ The goal of this task was to create and host a static website on AWS S3 by:
 - Setting correct permissions for public access
 - Accessing the site through the AWS S3 static website endpoint
 
+live working link : http://danieli455.s3-website.ap-south-1.amazonaws.com
